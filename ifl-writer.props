@@ -5,7 +5,7 @@
     <VLCleanBuildDirectory>True</VLCleanBuildDirectory>
     <VLExportPath>C:\Users\seltz\Documents\vvvv\gamma-preview\Exports</VLExportPath>
     <VLTargetOS>Windows</VLTargetOS>
-    <ApplicationIcon>$(MsBuildThisFileDirectory)ifl-writer.ico</ApplicationIcon>
+    <ApplicationIcon>$(MsBuildThisFileDirectory)simple_ifl_writer256.ico</ApplicationIcon>
     <OutputType>WinExe</OutputType>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <TargetFramework>net6.0-windows</TargetFramework>

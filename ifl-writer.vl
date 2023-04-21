@@ -113,7 +113,7 @@
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Renderer" />
             </p:NodeReference>
-            <Pin Id="ApMQ5ZqdXdTLJbQ0VscaAr" Name="Bounds" Kind="InputPin" DefaultValue="1664, 426, 266, 200" />
+            <Pin Id="ApMQ5ZqdXdTLJbQ0VscaAr" Name="Bounds" Kind="InputPin" DefaultValue="666, 400, 266, 200" />
             <Pin Id="EdVPVvbtuJ4Ppt0hCLAYrO" Name="Bound to Document" Kind="InputPin" DefaultValue="True" />
             <Pin Id="QFk1wPOUrLTMrpISMRuaIV" Name="Input" Kind="InputPin" />
             <Pin Id="JVtvxmu8MMvN7clKoxiIru" Name="Color" Kind="InputPin" />
